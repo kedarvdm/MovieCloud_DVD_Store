@@ -1,2 +1,2 @@
 # MovieCloud_DVD_Store
-Semester project for Application Engineering and Development
+Semester project for Web Design and User Experience
